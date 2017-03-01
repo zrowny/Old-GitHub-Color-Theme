@@ -1,0 +1,139 @@
+a, table.files td.icon .octicon-file-directory {
+    color: #4183c4;
+}
+
+.header-logo-invertocat {
+    float: left;
+    margin: -1px 15px -1px -2px;
+    color: #fff;
+    white-space: nowrap;
+}
+
+.header-nav-link {
+    display: block;
+    padding: 5px 8px;
+    font-weight: 600;
+    line-height: 20px;
+    color: rgba(255,255,255,0.75);
+}
+
+.header-nav-link:hover, .header-nav-link:focus {
+    color: #fff;
+    text-decoration: none;
+}
+
+span.labelstyle-84b6eb, .linked-labelstyle-84b6eb {
+    background-color: #84b6eb ;
+    color: #1c2733 ;
+}
+
+.reponav-item {
+    color: #666;
+}
+
+.reponav-item.selected {
+    color: #111;
+}
+
+.btn, .social-count {
+    color: #333;
+}
+
+.btn:hover, .btn:active, .btn.zeroclipboard-is-hover, .btn.zeroclipboard-is-active {
+    text-decoration: none;
+    background-color: #ddd;
+    background-image: linear-gradient(#eee, #ddd);
+    border-color: #ccc;
+}
+
+.social-count:hover {
+    color: #4078c0;
+}
+
+.author {
+    color: #555;
+}
+
+.timeline-comment-header .timestamp {
+    color: inherit;
+}
+
+.sidebar-assignee .assignee {
+    color: #555;
+}
+
+.state-open, .state-proposed, .state-reopened {
+    background-color: #6cc644;
+}
+
+.btn-primary {
+    color: #fff;
+    text-shadow: 0 -1px 0 rgba(0,0,0,0.15);
+    background-color: #6cc644;
+    background-image: linear-gradient(#91dd70, #55ae2e);
+    border: 1px solid #5aad35;
+}
+
+.btn-primary:hover, .btn-primary:active, .btn-primary.zeroclipboard-is-hover, .btn-primary.zeroclipboard-is-active {
+    background-color: #55a532;
+    background-image: linear-gradient(#85d063, #4f992f);
+    border-color: #519d30;
+    background-position: 0;
+}
+
+.btn-sm {
+    padding: 3px 10px;
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.label-color a {
+    color: #1c2733;
+}
+
+.discussion-item .timestamp {
+    color: inherit;
+    white-space: nowrap;
+}
+
+.lock-toggle-link {
+    color: #767676;
+}
+
+.lock-toggle-link:hover {
+    color: #4078c0;
+}
+
+.tabnav-extra {
+    color: #666;
+}
+
+a.tabnav-extra:hover {
+    color: #4078c0;
+}
+
+.bg-green {
+    background-color: #6cc644
+;
+}
+
+.commit-tease .message {
+    color: inherit;
+}
+
+.user-mention, .team-mention {
+    color: #24292e;
+}
+
+.numbers-summary a, .numbers-summary .nolink {
+    color: #586069;
+}
+
+.commit-tease-sha {
+    color: #444d56;
+}
+
+table.files td.message a {
+    color: #6a737d;
+}
+
